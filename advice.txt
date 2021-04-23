@@ -1,4 +1,4 @@
-answer=sring(INPUT("would you like some advice?"))
+answer=string(INPUT("would you like some advice?"))
 if answer == "y"
   PRINT("Don't forget to visit c.ussr.pl!")
 elif answer == "N"
