@@ -17,3 +17,5 @@ ELIF eggcount==”8”
 	print(“8 eggs will be used”)
 ELSE
 	print(“ERROR: I said 8 was the max idiot”)
+
+## this is really inefficient bruhhhhh
