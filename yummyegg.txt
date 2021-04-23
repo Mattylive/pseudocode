@@ -1,0 +1,19 @@
+eggcount=INT(INPUT("how many eggs do you want? (max = 8)"))
+IF eggcount== “1”
+	print(“1 egg will be used”)
+ELIF eggcount==”2”
+	print(“2 eggs will be used”)
+ELIF eggcount==”3”
+	print(“3 eggs will be used”)
+ELIF eggcount==”4”
+	print(“4 eggs will be used”)
+ELIF eggcount==”5”
+	print(“5 eggs will be used”)
+ELIF eggcount==”6”
+	print(“6 eggs will be used”)
+ELIF eggcount==”7”
+	print(“7 eggs will be used”)
+ELIF eggcount==”8”
+	print(“8 eggs will be used”)
+ELSE
+	print(“ERROR: I said 8 was the max idiot”)
