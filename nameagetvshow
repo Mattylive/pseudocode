@@ -1,0 +1,4 @@
+name=string(INPUT("Please enter your name?"))
+age=string(INPUT("how old are you?"))
+tv=string(INPUT("what is your favourite tv show?"))
+print(name, “is”, age, “years old and their favourite tv show is”, tv)
